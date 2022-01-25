@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "309099267363",
+    "project_id": "userlogin-b7831",
+    "storage_bucket": "userlogin-b7831.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:309099267363:android:25cd2266f64bea4adf3896",
+        "android_client_info": {
+          "package_name": "com.norf.firebaseauthentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "309099267363-79jdcnaisb5urjuqhjpqr1lsqfastovj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgUZFCvw674jP3RYlNqbDPhUGpqkP5ZNw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "309099267363-79jdcnaisb5urjuqhjpqr1lsqfastovj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
